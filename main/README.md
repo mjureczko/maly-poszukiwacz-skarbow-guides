@@ -1,6 +1,6 @@
 # Mały Poszukiwacz Skarbów
 
-## [English](README_en.md)
+[English](README_en.md)
 
 ## Rozgrywka
 
