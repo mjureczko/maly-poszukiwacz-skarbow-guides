@@ -56,3 +56,5 @@ Kody QR można wygenerować na stronie (https://zxing.appspot.com/generator) alb
 ![picture](img/sample_treasures/ruby14.png)
 ![picture](img/sample_treasures/ruby26.png)
 * * *
+
+## [Polityka Bezpieczeństwa](https://policy-little-treasure-hunter.netlify.app/#/)
