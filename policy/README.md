@@ -1,10 +1,10 @@
 # Polityka Bezpieczeństwa
-Szanujemy prawo użytkowników aplikacji do prywatności i oświadczamy, że aplikacja nie zbiera i nie gromadzi żadnych danych osobowych użytkowników.
+Szanujemy prawo użytkowników aplikacji **Mały Poszukiwacz Skarbów** (Little Treasure Hunter) do prywatności i oświadczamy, że aplikacja nie zbiera i nie gromadzi żadnych danych osobowych użytkowników.
 
 
 
 1. Informujemy, iż podczas użytkowania aplikacji są zapisywane dane na urządzeniu klienta
-   (dane odnośnie tras: podpowiedzi słowne oraz głosowe, współrzędne ukrytych skarków; informacja o odnalezionych skarbach: oznaczenie skarbów już odnalezionych oraz ilości odnalezionych diamentów, rubinów i złota).
+   (dane odnośnie tras: podpowiedzi słowne oraz głosowe, współrzędne ukrytych skarbów; informacja o odnalezionych skarbach: oznaczenie skarbów już odnalezionych oraz ilości odnalezionych diamentów, rubinów i złota).
    Wszystkie dane mogą zostać usunięte przez użytkownika z poziomu aplikacji.
 
 2. Aplikacja może korzystać z następujących uprawnień:
