@@ -55,3 +55,6 @@ The treasures can be generated using https://zxing.appspot.com/generator. You ca
 ![picture](img/sample_treasures/ruby14.png)
 ![picture](img/sample_treasures/ruby26.png)
  * * *
+ 
+ ## [Privacy Policy](https://policy-little-treasure-hunter.netlify.app/#/)
+ 
