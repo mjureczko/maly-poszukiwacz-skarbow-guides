@@ -1,6 +1,6 @@
-# Mały Poszukiwacz Skarbów
+# Kalinowice (przygoda Małego Poszukiwacza Skarbów)
 
-[English](README_kalinowice_en.md)
+[English](README_en.md)
 
 ## Rozgrywka
 
