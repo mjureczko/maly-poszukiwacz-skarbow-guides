@@ -22,4 +22,4 @@
 9. Wybór kolejnego punktu dokonujemy ponownie z poziomu mapy.![picture](img/change_chest_small.png).
    
 
-## [Polityka Bezpieczeństwa](https://policy-little-treasure-hunter.netlify.app/#/)
+## [Polityka Bezpieczeństwa](https://p-kalinowice-little-treasure-hunter.netlify.app/)
