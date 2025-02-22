@@ -1,4 +1,5 @@
 # Privacy Policy
+[Polish](README.md)
 
 ## 1. Introduction
 

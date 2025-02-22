@@ -1,4 +1,5 @@
 # Polityka Bezpieczeństwa
+[English](README_en.md)
 
 ## 1. Wstęp
 
