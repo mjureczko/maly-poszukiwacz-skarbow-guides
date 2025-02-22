@@ -2,4 +2,4 @@
 [Polish](README.md)
 
 
-## [Privacy Policy](https://p-kalinowice-little-treasure-hunter.netlify.app/#/README_en)
+## [](https://p-kalinowice-little-treasure-hunter.netlify.app/#/README_en)
