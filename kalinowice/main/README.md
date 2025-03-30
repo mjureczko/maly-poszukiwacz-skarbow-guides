@@ -24,7 +24,7 @@
 12. Zachęcamy do publikacji pamiątkowych zdjęć z trasy poszukiwań na Facebooku korzystając z przycisku
     ![picture](../img/facebook.png)
 13. Wszystkie filmy dla odkrytych skarbów można odtwarzać wielokrotnie za pomocą przycisku
-    ![picture](../img/change_movie.png) umieszczonego na widoku z listą skarbów.
+    ![picture](../img/movie.png) umieszczonego na widoku z listą skarbów.
     
 
 Życzymy udanej zabawy całym rodzinom.
