@@ -7,7 +7,7 @@
 1. Do gry potrzebna jest zainstalowana aplikacja (dostęp do internetu nie jest konieczny w czasie rozgrywki).
 2. Poszukiwania można rozpocząć z dowolnego miejsca. Kolejność odkrywania poszczególnych punktów nie ma wpływu na wynik poszukiwań.
 3. Wyboru konkretnej atrakcji, której chcemy szukać dokonać można po kliknięciu przycisku
-   ![picture](img/change_chest.webp)
+   ![picture](img/change_chest_small.webp)
    sugerując się np. bliską odległością od aktualnego położenia.
 5. Podczas poszukiwań można skorzystać z mapy planując trasę poszukiwań. Mapa dostępna jest po naciśnięciu przycisku
    
