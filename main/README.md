@@ -12,14 +12,14 @@
     * Trzeba ukryć skarby, czyli wydrukowane wcześniej kody QR.
     * W miejscu ukrycia skarbu należy wcisnąć przycisk z wizerunkiem skrzyni ![picture](img/chest_small.png).
       Dzięki temu gra zapamięta współrzędne skarbu.
-    * Dodatkowo można nagrać podpowiedź dla poszukiwaczy przez naciśnięciu przycisku z symbolem mikrofonu lub zrobić sugerujące lokazliację skarbu zdjęcie naciskając przycisk z symbolem aparatu.
+    * Dodatkowo można nagrać podpowiedź dla poszukiwaczy przez naciśnięcie przycisku z symbolem mikrofonu lub zrobić sugerujące lokalizację skarbu zdjęcie naciskając przycisk z symbolem aparatu.
 
 
 3. Gdy już wszystkie skarby są ukryte należy wycofać się do głównego ekranu gry, wybrać właśnie utworzoną trasę i przekazać telefon poszukiwaczom.
 
 4. Poszukiwacze szukają na podstawie informacji o odległości wyrażonej liczbą kroków do skarbu i kompasu.
    Kompas wskazuje kierunek, którym trzeba podążać aby dotrzeć do skarbu.
-   Jest to kierunek świata, poszukiwacz musi samodzielnie ustalić gdzie jest północ żeby pójść we właściwą stronę.
+   Jest to kierunek świata, poszukiwacz musi samodzielnie ustalić, gdzie jest północ żeby pójść we właściwą stronę.
 
 5. Podczas poszukiwań można skorzystać z podpowiedzi nagranej wcześniej przez ukrywającego skarby naciskając przycisk
    ![picture](img/megaphone_small.png) lub obejrzeć zdjęcie wybierając przycisk
@@ -28,7 +28,7 @@
 6. Poszukiwacz po znalezieniu skarbu używa aplikacji do zeskanowania kodu QR naciskając przycisk
    ![picture](img/chest_small.png) i dzięki temu dowiaduje się co znalazł.
 
-7. Po znalezieniu skarbu można wybrać do poszukiwań kolejny przy pomocy przycisku
+7. Po znalezieniu skarbu można wybrać do poszukiwań kolejny skarb przy pomocy przycisku
    ![picture](img/change_chest_small.png).
    
 ## Skarby
