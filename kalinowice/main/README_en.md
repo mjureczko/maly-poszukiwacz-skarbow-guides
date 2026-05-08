@@ -48,6 +48,29 @@ All treasures are in public places, so you don’t need to go anywhere private.
 
 **Have fun with your whole family!**
 
+## Achievements
+
+You can earn badges for special achievements while discovering more treasures.  
+They are connected with achievements and badges you get in the other games from the series:
+- [Pęgów](https://play.google.com/store/apps/details?id=pl.marianjureczko.poszukiwacz.pegow)
+- [Little Treasure Hunter](https://play.google.com/store/apps/details?id=pl.marianjureczko.poszukiwacz)
+
+Play all the games to earn the highest-level badges!
+
+There are 8 badge categories:
+
+- ![picture](img/badge_gold.webp) **Gold Seeker** – counts the total number of gold pieces from QR codes that represent gold.
+- ![picture](img/badge_diamond.webp) **Diamond Explorer** – the total number of diamonds found in treasures with diamonds.
+- ![picture](img/badge_ruby.webp) **Ruby Collector** – how many rubies you got from scanned QR codes.
+- ![picture](img/badge_knowledge.png) **Knowledge Hero** – the number of QR codes that had fun fact videos hidden behind them.
+- ![picture](img/badge_treasurer.webp) **Treasurer** – the total number of all kinds of valuables you collected.
+- ![picture](img/badge_seeker.webp) **Treasure Seeker** – the total number of treasures you discovered of any kind.
+- ![picture](img/badge_traveler.webp) **Persistent Traveler** – shows how many routes you finished by finding all treasures on them.
+- ![picture](img/badge_pathfinder.webp) **Trail Pathfinder** – your record for the number of treasures found on one completed route.
+
+You can earn many badges in each category.  
+As you get more points in a category, you will receive higher-level badges.
+
 ## About the App
 
 This game was made by a family:

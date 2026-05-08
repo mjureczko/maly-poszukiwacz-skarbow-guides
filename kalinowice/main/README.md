@@ -42,6 +42,28 @@ Ostatecznie jednak każdy ze skarbów znajduje się w publicznie dostępnym miej
 
 **Życzymy udanej zabawy całym rodzinom.**
 
+## Osiągnięcia
+
+Za szczególne osiągnięcia w odkrywaniu kolejnych skarbów przyznawane są odznaki.
+Łączą się z osiągnięciami i odznakami uzyskanymi w pozostałych aplikacjach z serii:
+- [Pęgów](https://play.google.com/store/apps/details?id=pl.marianjureczko.poszukiwacz.pegow)
+- [Mały Poszukiwacz Skarbów](https://play.google.com/store/apps/details?id=pl.marianjureczko.poszukiwacz)
+
+Zagraj we wszystkie gry aby zdobyć odznaki najwyższego poziomu!
+
+Odznaki są przyznawane w aż 8 kategoriach:
+-  ![picture](img/badge_gold.webp) Poszukiwacz Złota - liczy się suma sztuk złota z kodów QR reprezentujacych złoto.
+-  ![picture](img/badge_diamond.webp) Odkrywca Diamentów - łączna liczba diamentów ze skarbów zawierających diamenty.
+-  ![picture](img/badge_ruby.webp) Kolekcjoner Rubinów - ile zdobyto rubnów w zeskanowanych kodach QR.
+-  ![picture](img/badge_knowledge.png) Bohater Wiedzy - liczba zeskanowanych kodów QR pod którymi ukrywały się filmiki z ciekawostkami.
+-  ![picture](img/badge_treasurer.webp) Skarbnik - liczy się suma zebranych wszystkich rodzajów kosztowności.
+-  ![picture](img/badge_seeker.webp) Poszukiwacz Skarbów - tu ważna jest łączna liczba odkrytych skarbów, dowolnego rodzaju.
+-  ![picture](img/badge_traveler.webp) Wytrwały Podróżnik - wytrwałość wykazuje się liczbą tras na których znaleziono wszystkie skarby.
+-  ![picture](img/badge_pathfinder.webp) Tropiciel Szlaków - liczy się rekord w liczbie skarbów znalezionych na jednej, ukończonej trasie.
+
+W każdej kategorii można zdobyć wiele odznak.
+Wraz ze wzratającą w danej kategorii liczbą punktów przyznawany będzie coraz wyższy poziom odznaki.
+
 ## O aplikacji
 
 Gra jest projektem rodzinnym:
