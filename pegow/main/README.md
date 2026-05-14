@@ -59,6 +59,14 @@ Wraz ze wzratającą w danej kategorii liczbą punktów przyznawany będzie cora
 
 ## O aplikacji
 
-Gra powstała dzięki zaangażowaniu mieszkańców Pęgowa.
+Gra powstała dzięki zaangażowaniu mieszkańców Pęgowa, w jej powstaniu brali udział:
+- Maciej Borowski
+- Alicja Jureczko
+- Marian Jureczko
+- Zofia Jureczko
+- Alina Legrand-Jureczko
+- Andrzej Milian
+- Marta Rogala
+- Piotr Rogala
 
 ## [Polityka Bezpieczeństwa](https://p-pegow-little-treasure-hunter.netlify.app/)

@@ -73,6 +73,14 @@ As you get more points in a category, you will receive higher-level badges.
 
 ## About the App
 
-The game was created thanks to the involvement of the residents of Pęgów.
+The game was created thanks to the involvement of the residents of Pęgów, the following people participated in its creation:
+- Maciej Borowski
+- Alicja Jureczko
+- Marian Jureczko
+- Zofia Jureczko
+- Alina Legrand-Jureczko
+- Andrzej Milian
+- Marta Rogala
+- Piotr Rogala
 
 ## [Safety Policy](https://p-pegow-little-treasure-hunter.netlify.app/#/README_en)
